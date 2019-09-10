@@ -1,6 +1,6 @@
 {
-    "name": "jbs/jbs01",
-    "description": "test composer",
+    "name": "meilifj/jbs",
+    "description": "meilifj composer",
     "authors": [
         {
             "name": "jiangbs",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jbs01\\": "src/"
+            "jbs\\": "src/"
         }
     },
     "license": "MIT"

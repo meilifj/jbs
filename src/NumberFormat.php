@@ -4,7 +4,7 @@
  * @author jiangbs
  */
 
-namespace jbs01;
+namespace jbs;
 
 class NumberFormat
 {
